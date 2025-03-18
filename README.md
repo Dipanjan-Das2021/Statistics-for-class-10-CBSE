@@ -1,2 +1,2 @@
-# sql-practice
-Practice for my boards
+ #Hello tenthies
+ this the year when you are going to step in arena of competition. You need to be OG !! in every subject. But here comes the common man's problem. Does math feels overwhelming to you just like myself ? And stats being the boss here. Well, to save your day. I have provided you this simple python code the find the mean,median and mode easily. If normal maths language can't do much to you,hope this programming style of explaining concepts will do. In the mean section, I have only provided direct method.If you want Assumed-mean method and step-deviation method,just comment and I'll make it available at the earliest.
